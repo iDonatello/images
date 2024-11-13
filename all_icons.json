@@ -1,0 +1,266 @@
+{
+  "name": "@iDonatello 自用图标库",
+  "description": "@iDonatello 自用图标库, 含策略组图标(size: 108x108), App图标(size: 144x144)",
+  "icons": [
+    {
+      "name": "10000",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/10000.png"
+    },
+    {
+      "name": "10010",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/10010.png"
+    },
+    {
+      "name": "10086",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/10086.png"
+    },
+    {
+      "name": "12306",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/12306.png"
+    },
+    {
+      "name": "alipan",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/alipan.png"
+    },
+    {
+      "name": "apple",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/apple.png"
+    },
+    {
+      "name": "auto",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/auto.png"
+    },
+    {
+      "name": "bandwagon",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/bandwagon.png"
+    },
+    {
+      "name": "bendingspoons",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/bendingspoons.png"
+    },
+    {
+      "name": "bing",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/bing.png"
+    },
+    {
+      "name": "bkchina",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/bkchina.png"
+    },
+    {
+      "name": "bmac",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/bmac.png"
+    },
+    {
+      "name": "buyitunes",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/buyitunes.png"
+    },
+    {
+      "name": "caiyun",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/caiyun.png"
+    },
+    {
+      "name": "carrotweather",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/carrotweather.png"
+    },
+    {
+      "name": "chelaile",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/chelaile.png"
+    },
+    {
+      "name": "cloudflare",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/cloudflare.png"
+    },
+    {
+      "name": "cron-hub",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/cron-hub.png"
+    },
+    {
+      "name": "csair",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/csair.png"
+    },
+    {
+      "name": "diditaxi",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/diditaxi.png"
+    },
+    {
+      "name": "ditietong",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/ditietong.png"
+    },
+    {
+      "name": "dlife",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/dlife.png"
+    },
+    {
+      "name": "domestic",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/domestic.png"
+    },
+    {
+      "name": "duckduckgo",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/duckduckgo.png"
+    },
+    {
+      "name": "etcp",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/etcp.png"
+    },
+    {
+      "name": "final",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/final.png"
+    },
+    {
+      "name": "follow",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/follow.png"
+    },
+    {
+      "name": "func.hub",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/func.hub.png"
+    },
+    {
+      "name": "global",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/global.png"
+    },
+    {
+      "name": "global_streaming",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/global_streaming.png"
+    },
+    {
+      "name": "hongqi",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/hongqi.png"
+    },
+    {
+      "name": "ibl",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/ibl.png"
+    },
+    {
+      "name": "ikea",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/ikea.png"
+    },
+    {
+      "name": "insta360",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/insta360.png"
+    },
+    {
+      "name": "iqiyi",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/iqiyi.png"
+    },
+    {
+      "name": "jd",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/jd.png"
+    },
+    {
+      "name": "kehou100",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/kehou100.png"
+    },
+    {
+      "name": "kuaidi100",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/kuaidi100.png"
+    },
+    {
+      "name": "lightroom",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/lightroom.png"
+    },
+    {
+      "name": "meituan",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/meituan.png"
+    },
+    {
+      "name": "moneywiz",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/moneywiz.png"
+    },
+    {
+      "name": "openai",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/openai.png"
+    },
+    {
+      "name": "paypal",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/paypal.png"
+    },
+    {
+      "name": "pinduoduo",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/pinduoduo.png"
+    },
+    {
+      "name": "real-time-debug",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/real-time-debug.png"
+    },
+    {
+      "name": "reddit",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/reddit.png"
+    },
+    {
+      "name": "revenuecat",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/revenuecat.png"
+    },
+    {
+      "name": "rewrite.jq",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/rewrite.jq.png"
+    },
+    {
+      "name": "select",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/select.png"
+    },
+    {
+      "name": "sfsy",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/sfsy.png"
+    },
+    {
+      "name": "sinopec",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/sinopec.png"
+    },
+    {
+      "name": "smzdm",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/smzdm.png"
+    },
+    {
+      "name": "speedtest",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/speedtest.png"
+    },
+    {
+      "name": "spotify",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/spotify.png"
+    },
+    {
+      "name": "sql.storage",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/sql.storage.png"
+    },
+    {
+      "name": "static.site",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/static.site.png"
+    },
+    {
+      "name": "suning",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/suning.png"
+    },
+    {
+      "name": "umetrip",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/umetrip.png"
+    },
+    {
+      "name": "videoqq",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/videoqq.png"
+    },
+    {
+      "name": "vpn.hub",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/vpn.hub.png"
+    },
+    {
+      "name": "wanda",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/wanda.png"
+    },
+    {
+      "name": "wise",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/wise.png"
+    },
+    {
+      "name": "xcurrency",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/xcurrency.png"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/xiaohongshu.png"
+    },
+    {
+      "name": "ximalaya",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/ximalaya.png"
+    }
+  ]
+}

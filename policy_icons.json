@@ -1,0 +1,62 @@
+{
+  "name": "策略组图标库(size: 108x108)",
+  "description": "策略组图标库(size: 108x108), 不包含App图标, @iDonatello",
+  "icons": [
+    {
+      "name": "apple",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/apple.png"
+    },
+    {
+      "name": "auto",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/auto.png"
+    },
+    {
+      "name": "bing",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/bing.png"
+    },
+    {
+      "name": "cloudflare",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/cloudflare.png"
+    },
+    {
+      "name": "domestic",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/domestic.png"
+    },
+    {
+      "name": "final",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/final.png"
+    },
+    {
+      "name": "global",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/global.png"
+    },
+    {
+      "name": "global_streaming",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/global_streaming.png"
+    },
+    {
+      "name": "openai",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/openai.png"
+    },
+    {
+      "name": "paypal",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/paypal.png"
+    },
+    {
+      "name": "select",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/select.png"
+    },
+    {
+      "name": "speedtest",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/speedtest.png"
+    },
+    {
+      "name": "spotify",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/spotify.png"
+    },
+    {
+      "name": "wise",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/wise.png"
+    }
+  ]
+}
