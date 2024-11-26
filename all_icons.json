@@ -277,6 +277,10 @@
     {
       "name": "ximalaya",
       "url": "https://private.enjoyco.de/iDonatello/images/main/qx/ximalaya.png"
+    },
+    {
+      "name": "youku",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/youku.png"
     }
   ]
 }
