@@ -127,12 +127,20 @@
       "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/global_streaming.png"
     },
     {
+      "name": "goofish",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/goofish.png"
+    },
+    {
       "name": "hcz.pingan",
       "url": "https://private.enjoyco.de/iDonatello/images/main/qx/hcz.pingan.png"
     },
     {
       "name": "hongqi",
       "url": "https://private.enjoyco.de/iDonatello/images/main/qx/hongqi.png"
+    },
+    {
+      "name": "httpdns.block",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/httpdns.block.png"
     },
     {
       "name": "ibl",
