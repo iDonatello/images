@@ -131,6 +131,10 @@
       "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/global_streaming.png"
     },
     {
+      "name": "goodnotes",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/goodnotes.png"
+    },
+    {
       "name": "goofish",
       "url": "https://private.enjoyco.de/iDonatello/images/main/qx/goofish.png"
     },
@@ -197,6 +201,10 @@
     {
       "name": "music.163",
       "url": "https://private.enjoyco.de/iDonatello/images/main/qx/music.163.png"
+    },
+    {
+      "name": "notability",
+      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/notability.png"
     },
     {
       "name": "openai",
