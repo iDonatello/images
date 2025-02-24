@@ -4,59 +4,59 @@
   "icons": [
     {
       "name": "apple",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/apple.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/apple.png"
     },
     {
       "name": "auto",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/auto.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/auto.png"
     },
     {
       "name": "bing",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/bing.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/bing.png"
     },
     {
       "name": "cloudflare",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/cloudflare.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/cloudflare.png"
     },
     {
       "name": "domestic",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/domestic.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/domestic.png"
     },
     {
       "name": "final",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/final.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/final.png"
     },
     {
       "name": "global",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/global.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global.png"
     },
     {
       "name": "global_streaming",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/global_streaming.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global_streaming.png"
     },
     {
       "name": "openai",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/openai.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/openai.png"
     },
     {
       "name": "paypal",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/paypal.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/paypal.png"
     },
     {
       "name": "select",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/select.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/select.png"
     },
     {
       "name": "speedtest",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/speedtest.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/speedtest.png"
     },
     {
       "name": "spotify",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/spotify.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/spotify.png"
     },
     {
       "name": "wise",
-      "url": "https://private.enjoyco.de/iDonatello/images/main/qx/policy/wise.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/wise.png"
     }
   ]
 }
