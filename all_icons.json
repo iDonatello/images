@@ -87,6 +87,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/csair.png"
     },
     {
+      "name": "ctrip",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/ctrip.png"
+    },
+    {
       "name": "diditaxi",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/diditaxi.png"
     },
@@ -125,6 +129,10 @@
     {
       "name": "func.hub",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/func.hub.png"
+    },
+    {
+      "name": "github",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/github.png"
     },
     {
       "name": "global",
@@ -237,6 +245,14 @@
     {
       "name": "pinduoduo",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/pinduoduo.png"
+    },
+    {
+      "name": "price-chart",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/misc/price-chart.png"
+    },
+    {
+      "name": "price-lower",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/misc/price-lower.png"
     },
     {
       "name": "real-time-debug",
