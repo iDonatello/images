@@ -299,6 +299,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/spotify.png"
     },
     {
+      "name": "spotify",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/spotify.png"
+    },
+    {
       "name": "sql.storage",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/sql.storage.png"
     },
