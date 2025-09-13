@@ -223,66 +223,6 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/pinduoduo.png"
     },
     {
-      "name": "apple",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/apple.png"
-    },
-    {
-      "name": "auto",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/auto.png"
-    },
-    {
-      "name": "bing",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/bing.png"
-    },
-    {
-      "name": "cloudflare",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/cloudflare.png"
-    },
-    {
-      "name": "domestic",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/domestic.png"
-    },
-    {
-      "name": "final",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/final.png"
-    },
-    {
-      "name": "global_streaming",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global_streaming.png"
-    },
-    {
-      "name": "global",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global.png"
-    },
-    {
-      "name": "openai",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/openai.png"
-    },
-    {
-      "name": "paypal",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/paypal.png"
-    },
-    {
-      "name": "select",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/select.png"
-    },
-    {
-      "name": "speedtest",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/speedtest.png"
-    },
-    {
-      "name": "spotify",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/spotify.png"
-    },
-    {
-      "name": "twitter",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/twitter.png"
-    },
-    {
-      "name": "wise",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/wise.png"
-    },
-    {
       "name": "real-time-debug",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/real-time-debug.png"
     },
@@ -329,6 +269,106 @@
     {
       "name": "tigertrade",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/tigertrade.png"
+    },
+    {
+      "name": "twitter",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/twitter.png"
+    },
+    {
+      "name": "umetrip",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/umetrip.png"
+    },
+    {
+      "name": "videoqq",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/videoqq.png"
+    },
+    {
+      "name": "vod",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/vod.png"
+    },
+    {
+      "name": "vpn.hub",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/vpn.hub.png"
+    },
+    {
+      "name": "wanda",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/wanda.png"
+    },
+    {
+      "name": "xcurrency",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/xcurrency.png"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/xiaohongshu.png"
+    },
+    {
+      "name": "ximalaya",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/ximalaya.png"
+    },
+    {
+      "name": "youku",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/youku.png"
+    },
+    {
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/apple.png"
+    },
+    {
+      "name": "auto",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/auto.png"
+    },
+    {
+      "name": "bing",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/bing.png"
+    },
+    {
+      "name": "cloudflare",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/cloudflare.png"
+    },
+    {
+      "name": "domestic",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/domestic.png"
+    },
+    {
+      "name": "final",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/final.png"
+    },
+    {
+      "name": "global",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global.png"
+    },
+    {
+      "name": "global_streaming",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global_streaming.png"
+    },
+    {
+      "name": "openai",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/openai.png"
+    },
+    {
+      "name": "paypal",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/paypal.png"
+    },
+    {
+      "name": "select",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/select.png"
+    },
+    {
+      "name": "speedtest",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/speedtest.png"
+    },
+    {
+      "name": "spotify",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/spotify.png"
+    },
+    {
+      "name": "twitter",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/twitter.png"
+    },
+    {
+      "name": "wise",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/wise.png"
     },
     {
       "name": "10000",
@@ -637,46 +677,6 @@
     {
       "name": "youku",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/youku.png"
-    },
-    {
-      "name": "twitter",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/twitter.png"
-    },
-    {
-      "name": "umetrip",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/umetrip.png"
-    },
-    {
-      "name": "videoqq",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/videoqq.png"
-    },
-    {
-      "name": "vod",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/vod.png"
-    },
-    {
-      "name": "vpn.hub",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/vpn.hub.png"
-    },
-    {
-      "name": "wanda",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/wanda.png"
-    },
-    {
-      "name": "xcurrency",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/xcurrency.png"
-    },
-    {
-      "name": "xiaohongshu",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/xiaohongshu.png"
-    },
-    {
-      "name": "ximalaya",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/ximalaya.png"
-    },
-    {
-      "name": "youku",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/youku.png"
     }
   ]
 }

@@ -27,12 +27,12 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/final.png"
     },
     {
-      "name": "global_streaming",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global_streaming.png"
-    },
-    {
       "name": "global",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global.png"
+    },
+    {
+      "name": "global_streaming",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global_streaming.png"
     },
     {
       "name": "openai",
