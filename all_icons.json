@@ -3,6 +3,14 @@
   "description": "@iDonatello 自用图标库, 含策略组图标(size: 108x108), App图标(size: 144x144)",
   "icons": [
     {
+      "name": "price-chart",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/misc/price-chart.png"
+    },
+    {
+      "name": "price-lower",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/misc/price-lower.png"
+    },
+    {
       "name": "10000",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/10000.png"
     },
@@ -27,14 +35,6 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/alipan.png"
     },
     {
-      "name": "apple",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/apple.png"
-    },
-    {
-      "name": "auto",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/auto.png"
-    },
-    {
       "name": "bandwagon",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/bandwagon.png"
     },
@@ -45,10 +45,6 @@
     {
       "name": "bestpay",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/bestpay.png"
-    },
-    {
-      "name": "bing",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/bing.png"
     },
     {
       "name": "bkchina",
@@ -75,10 +71,6 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/chelaile.png"
     },
     {
-      "name": "cloudflare",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/cloudflare.png"
-    },
-    {
       "name": "cron-hub",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/cron-hub.png"
     },
@@ -103,10 +95,6 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/dlife.png"
     },
     {
-      "name": "domestic",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/domestic.png"
-    },
-    {
       "name": "duckduckgo",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/duckduckgo.png"
     },
@@ -123,10 +111,6 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/etcp.png"
     },
     {
-      "name": "final",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/final.png"
-    },
-    {
       "name": "follow",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/follow.png"
     },
@@ -137,14 +121,6 @@
     {
       "name": "github",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/github.png"
-    },
-    {
-      "name": "global",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global.png"
-    },
-    {
-      "name": "global_streaming",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global_streaming.png"
     },
     {
       "name": "goodnotes",
@@ -236,10 +212,6 @@
     },
     {
       "name": "openai",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/openai.png"
-    },
-    {
-      "name": "openai",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/openai.png"
     },
     {
@@ -247,20 +219,68 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/pan.baidu.png"
     },
     {
-      "name": "paypal",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/paypal.png"
-    },
-    {
       "name": "pinduoduo",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/pinduoduo.png"
     },
     {
-      "name": "price-chart",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/misc/price-chart.png"
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/apple.png"
     },
     {
-      "name": "price-lower",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/misc/price-lower.png"
+      "name": "auto",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/auto.png"
+    },
+    {
+      "name": "bing",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/bing.png"
+    },
+    {
+      "name": "cloudflare",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/cloudflare.png"
+    },
+    {
+      "name": "domestic",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/domestic.png"
+    },
+    {
+      "name": "final",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/final.png"
+    },
+    {
+      "name": "global_streaming",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global_streaming.png"
+    },
+    {
+      "name": "global",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global.png"
+    },
+    {
+      "name": "openai",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/openai.png"
+    },
+    {
+      "name": "paypal",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/paypal.png"
+    },
+    {
+      "name": "select",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/select.png"
+    },
+    {
+      "name": "speedtest",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/speedtest.png"
+    },
+    {
+      "name": "spotify",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/spotify.png"
+    },
+    {
+      "name": "twitter",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/twitter.png"
+    },
+    {
+      "name": "wise",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/wise.png"
     },
     {
       "name": "real-time-debug",
@@ -279,10 +299,6 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/rewrite.jq.png"
     },
     {
-      "name": "select",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/select.png"
-    },
-    {
       "name": "sfsy",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/sfsy.png"
     },
@@ -293,14 +309,6 @@
     {
       "name": "smzdm",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/smzdm.png"
-    },
-    {
-      "name": "speedtest",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/speedtest.png"
-    },
-    {
-      "name": "spotify",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/spotify.png"
     },
     {
       "name": "spotify",
@@ -323,8 +331,312 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/tigertrade.png"
     },
     {
+      "name": "10000",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/10000.png"
+    },
+    {
+      "name": "10010",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/10010.png"
+    },
+    {
+      "name": "10086",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/10086.png"
+    },
+    {
+      "name": "12306",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/12306.png"
+    },
+    {
+      "name": "52pojie",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/52pojie.png"
+    },
+    {
+      "name": "alipan",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/alipan.png"
+    },
+    {
+      "name": "bandwagon",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/bandwagon.png"
+    },
+    {
+      "name": "bendingspoons",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/bendingspoons.png"
+    },
+    {
+      "name": "bestpay",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/bestpay.png"
+    },
+    {
+      "name": "bkchina",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/bkchina.png"
+    },
+    {
+      "name": "bmac",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/bmac.png"
+    },
+    {
+      "name": "buyitunes",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/buyitunes.png"
+    },
+    {
+      "name": "caiyun",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/caiyun.png"
+    },
+    {
+      "name": "carrotweather",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/carrotweather.png"
+    },
+    {
+      "name": "chelaile",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/chelaile.png"
+    },
+    {
+      "name": "cron-hub",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/cron-hub.png"
+    },
+    {
+      "name": "csair",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/csair.png"
+    },
+    {
+      "name": "ctrip",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/ctrip.png"
+    },
+    {
+      "name": "diditaxi",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/diditaxi.png"
+    },
+    {
+      "name": "ditietong",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/ditietong.png"
+    },
+    {
+      "name": "dlife",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/dlife.png"
+    },
+    {
+      "name": "duckduckgo",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/duckduckgo.png"
+    },
+    {
+      "name": "duetdisplay",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/duetdisplay.png"
+    },
+    {
+      "name": "emby",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/emby.png"
+    },
+    {
+      "name": "etcp",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/etcp.png"
+    },
+    {
+      "name": "follow",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/follow.png"
+    },
+    {
+      "name": "func.hub",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/func.hub.png"
+    },
+    {
+      "name": "github",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/github.png"
+    },
+    {
+      "name": "goodnotes",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/goodnotes.png"
+    },
+    {
+      "name": "goofish",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/goofish.png"
+    },
+    {
+      "name": "hcz.pingan",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/hcz.pingan.png"
+    },
+    {
+      "name": "hongqi",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/hongqi.png"
+    },
+    {
+      "name": "httpdns.block",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/httpdns.block.png"
+    },
+    {
+      "name": "ibl",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/ibl.png"
+    },
+    {
+      "name": "ifttt",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/ifttt.png"
+    },
+    {
+      "name": "ikea",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/ikea.png"
+    },
+    {
+      "name": "indie",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/indie.png"
+    },
+    {
+      "name": "insta360",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/insta360.png"
+    },
+    {
+      "name": "iqiyi",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/iqiyi.png"
+    },
+    {
+      "name": "jd",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/jd.png"
+    },
+    {
+      "name": "kehou100",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/kehou100.png"
+    },
+    {
+      "name": "kelee",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/kelee.png"
+    },
+    {
+      "name": "kuaidi100",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/kuaidi100.png"
+    },
+    {
+      "name": "lightroom",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/lightroom.png"
+    },
+    {
+      "name": "lingnanpass",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/lingnanpass.png"
+    },
+    {
+      "name": "maidanba",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/maidanba.png"
+    },
+    {
+      "name": "manmanbuy",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/manmanbuy.png"
+    },
+    {
+      "name": "meituan",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/meituan.png"
+    },
+    {
+      "name": "moneywiz",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/moneywiz.png"
+    },
+    {
+      "name": "music.163",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/music.163.png"
+    },
+    {
+      "name": "notability",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/notability.png"
+    },
+    {
+      "name": "openai",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/openai.png"
+    },
+    {
+      "name": "pan.baidu",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/pan.baidu.png"
+    },
+    {
+      "name": "pinduoduo",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/pinduoduo.png"
+    },
+    {
+      "name": "real-time-debug",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/real-time-debug.png"
+    },
+    {
+      "name": "reddit",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/reddit.png"
+    },
+    {
+      "name": "revenuecat",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/revenuecat.png"
+    },
+    {
+      "name": "rewrite.jq",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/rewrite.jq.png"
+    },
+    {
+      "name": "sfsy",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/sfsy.png"
+    },
+    {
+      "name": "sinopec",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/sinopec.png"
+    },
+    {
+      "name": "smzdm",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/smzdm.png"
+    },
+    {
+      "name": "spotify",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/spotify.png"
+    },
+    {
+      "name": "sql.storage",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/sql.storage.png"
+    },
+    {
+      "name": "static.site",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/static.site.png"
+    },
+    {
+      "name": "suning",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/suning.png"
+    },
+    {
+      "name": "tigertrade",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/tigertrade.png"
+    },
+    {
+      "name": "translator.felo.me",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/translator.felo.me.png"
+    },
+    {
       "name": "twitter",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/twitter.png"
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/twitter.png"
+    },
+    {
+      "name": "umetrip",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/umetrip.png"
+    },
+    {
+      "name": "videoqq",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/videoqq.png"
+    },
+    {
+      "name": "vod",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/vod.png"
+    },
+    {
+      "name": "vpn.hub",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/vpn.hub.png"
+    },
+    {
+      "name": "wanda",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/wanda.png"
+    },
+    {
+      "name": "xcurrency",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/xcurrency.png"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/xiaohongshu.png"
+    },
+    {
+      "name": "ximalaya",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/ximalaya.png"
+    },
+    {
+      "name": "youku",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/youku.png"
     },
     {
       "name": "twitter",
@@ -349,10 +661,6 @@
     {
       "name": "wanda",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/wanda.png"
-    },
-    {
-      "name": "wise",
-      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/wise.png"
     },
     {
       "name": "xcurrency",
