@@ -163,6 +163,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/insta360.png"
     },
     {
+      "name": "ipa.install",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/ipa.install.png"
+    },
+    {
       "name": "iqiyi",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/iqiyi.png"
     },
@@ -529,6 +533,10 @@
     {
       "name": "insta360",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/insta360.png"
+    },
+    {
+      "name": "ipa.install",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/ipa.install.png"
     },
     {
       "name": "iqiyi",
