@@ -259,6 +259,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/smzdm.png"
     },
     {
+      "name": "sora",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/sora.png"
+    },
+    {
       "name": "spotify",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/spotify.png"
     },
@@ -629,6 +633,10 @@
     {
       "name": "smzdm",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/smzdm.png"
+    },
+    {
+      "name": "sora",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/sora.png"
     },
     {
       "name": "spotify",
