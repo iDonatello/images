@@ -55,6 +55,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/bmac.png"
     },
     {
+      "name": "bodian",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/bodian.png"
+    },
+    {
       "name": "buyitunes",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/buyitunes.png"
     },
@@ -429,6 +433,10 @@
     {
       "name": "bmac",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/bmac.png"
+    },
+    {
+      "name": "bodian",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/bodian.png"
     },
     {
       "name": "buyitunes",
