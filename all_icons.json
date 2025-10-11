@@ -35,6 +35,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/alipan.png"
     },
     {
+      "name": "amap",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/amap.png"
+    },
+    {
       "name": "bandwagon",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/bandwagon.png"
     },
@@ -413,6 +417,10 @@
     {
       "name": "alipan",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/alipan.png"
+    },
+    {
+      "name": "amap",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/amap.png"
     },
     {
       "name": "bandwagon",
