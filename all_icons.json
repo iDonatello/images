@@ -339,6 +339,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/youtube.png"
     },
     {
+      "name": "ysjf",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/ysjf.png"
+    },
+    {
       "name": "apple",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/apple.png"
     },
@@ -725,6 +729,10 @@
     {
       "name": "youtube",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/youtube.png"
+    },
+    {
+      "name": "ysjf",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/ysjf.png"
     }
   ]
 }
