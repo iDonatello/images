@@ -103,6 +103,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/dlife.png"
     },
     {
+      "name": "drafts",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/drafts.png"
+    },
+    {
       "name": "duckduckgo",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/duckduckgo.png"
     },
@@ -493,6 +497,10 @@
     {
       "name": "dlife",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/dlife.png"
+    },
+    {
+      "name": "drafts",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/drafts.png"
     },
     {
       "name": "duckduckgo",
