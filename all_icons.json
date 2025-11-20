@@ -127,6 +127,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/follow.png"
     },
     {
+      "name": "fuliba",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/fuliba.png"
+    },
+    {
       "name": "func.hub",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/func.hub.png"
     },
@@ -521,6 +525,10 @@
     {
       "name": "follow",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/follow.png"
+    },
+    {
+      "name": "fuliba",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/fuliba.png"
     },
     {
       "name": "func.hub",
