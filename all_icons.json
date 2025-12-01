@@ -203,6 +203,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/kuaidi100.png"
     },
     {
+      "name": "liepin",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/liepin.png"
+    },
+    {
       "name": "lightroom",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/lightroom.png"
     },
@@ -601,6 +605,10 @@
     {
       "name": "kuaidi100",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/kuaidi100.png"
+    },
+    {
+      "name": "liepin",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/liepin.png"
     },
     {
       "name": "lightroom",
