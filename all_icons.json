@@ -187,6 +187,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/ipa.install.png"
     },
     {
+      "name": "ippure",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/ippure.png"
+    },
+    {
       "name": "iqiyi",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/iqiyi.png"
     },
@@ -389,6 +393,10 @@
     {
       "name": "global_streaming",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/global_streaming.png"
+    },
+    {
+      "name": "ippure",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/policy/ippure.png"
     },
     {
       "name": "openai",
