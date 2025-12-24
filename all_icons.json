@@ -259,6 +259,10 @@
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/pinduoduo.png"
     },
     {
+      "name": "proxy-trans",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/proxy-trans.png"
+    },
+    {
       "name": "real-time-debug",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/real-time-debug.png"
     },
@@ -669,6 +673,10 @@
     {
       "name": "pinduoduo",
       "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/pinduoduo.png"
+    },
+    {
+      "name": "proxy-trans",
+      "url": "https://raw.githubusercontent.com/iDonatello/images/master/qx/transparent/proxy-trans.png"
     },
     {
       "name": "real-time-debug",
